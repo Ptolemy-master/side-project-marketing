@@ -3,18 +3,17 @@ layout: checklist_page
 title: Маркетинг проекта
 permalink: /marketing-checklist/
 ---
+Чек-лист для маркетинга проектов - это всеобъемлющий список маркетинговых приемов и идей, расположенных в хронологическом порядке. Список бесплатный и открытый, поэтому не стесняйтесь пополнять его [open source](https://github.com/karllhughes/side-project-marketing) so feel free to [suggest your own tips anytime](/2017/making-a-contribution)
 
-The Side Project Marketing Checklist is a comprehensive, chronologically ordered list of marketing tactics and ideas that you can try with your next side project. The list is free and [open source](https://github.com/karllhughes/side-project-marketing) so feel free to [suggest your own tips anytime](/2017/making-a-contribution).
+## До запуска
 
-## Pre-Launch
+### Исследование рыка
 
-### Market Research
+> _Если бы мы знали, что делаем, это не называлось бы исследованием._ - Альберт Эйнштейнт
 
-> _If we knew what we were doing it wouldn’t be called research._ - Albert Einstein
+#### Обзор конкурентов
 
-#### Competitive Landscape
-
-- [ ] Make a list of competitors (see [this list of tools to research competitors](/2017/competition-tools/)).
+- [ ] Составьте список конкурентов (см. [список инструментов для исследования конкурентов](/2017/competition-tools/)).
   
   ##### Competitor data to collect
   - [ ] Link to their website.
