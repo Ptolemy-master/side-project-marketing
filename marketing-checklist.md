@@ -48,7 +48,7 @@ permalink: /marketing-checklist/
   - [ ] Посмотрите на их сайтах - некоторые компании размещают там истории своих покупателей.
 
 - [ ] Вступите в контакт с потребителями своих конкурентов, узнайте, что они любят, а что нет.
-- [ ] Составьте список раннего доступа для потенциальных потребителей.
+- [ ] Составьте список ранних потребителей, которые, возможно смогут заплатить позже.
 
 ### Подготовка к рекламированию
 
@@ -143,28 +143,28 @@ permalink: /marketing-checklist/
 
 ### Работа с потребителями
 
-> _You should be talking to a small number of users who are seriously interested in what you’re making, not a broad audience who are on the whole indifferent._ - Jessica Livingston, Founding Partner at Y Combinator
+> _Лучше говорить с небольшим количеством пользователей, которые серьезно заинтересованы в том, что вы производите, чем с широкой аудиторией, которая равнодушна к вашему продукту._ - Jessica Livingston, парнтер-сооснователь Y Combinator
 
-- [ ] Send a coupon code to close friends and family members to let them try your product.
-- [ ] Send early access notification to customers identified in research.
-- [ ] Reach out to your social media followers, ask them to try your product.
-- [ ] Cold call ~20 people who might be good customers.
-- [ ] Connect with potential customers on Linkedin, reach out when they accept.
-- [ ] Watch a first time user use your product.
-- [ ] Survey or poll your users for feedback (see our [list of survey tools for lots of great options at any budget](/2017/survey-tools)).
-- [ ] Collect and display testimonials from happy users.
-- [ ] Run an early-stage cold email campaign.
+- [ ] Отправьте близким друзьям и родственникам купон на скидку, чтобы они могли попробовать ваш продукт.
+- [ ] Отправьте сообщение ранним пользователям (тем, кого вы нашли во время исследований до запуска).
+- [ ] Обратитесь к своим фолловерам в соцсетях, попросите их попробовать ваш продукт.
+- [ ] Сделайте около 20 холодных звонков потенциальным покупателям.
+- [ ] Свяжитесь с потенциальными потребителями через линкедин, расскажите им о своем продукте, когда они примут ваше приглашение.
+- [ ] Наблюдайте за тем, как пользователи используют ваш продукт в первый раз.
+- [ ] Создайте опросы и получите мнение пользователей о вашем продукте(смотрите наш [список инструментов для создания опросов - для кошелька любой толщины](/2017/survey-tools)).
+- [ ] Собирайте и размещайте на сайте благодарности от довольных пользователей.
+- [ ] Запустите кампанию по холодной рассылке.
 
-  ##### An early-stage cold email campaign
-  - [ ] Make a list of 30 prospective early customers' email addresses (Find email addresses with a tool like [Hunter](https://hunter.io/)).
-  - [ ] Send three cold emails per day for ten days. Experiment with messaging, take note of what works.
-  - [ ] Send three follow up emails per day for ten days. Experiment with messaging, take note of what works.
-  - [ ] Scale it up. Find more prospects, set up an automated drip campaign, rinse and repeat every month.
-  - [ ] There's also a [really comprehensive how-to article here](https://originalstitch.com/blog/automating-cold-emails-with-no-coding-your-software-development-project-plan).
+  ##### Кампания по холодной рассылке
+  - [ ] Составьте список из 30 емейлов, принадлежащих 30 перспективным пользователям (Чтобы найти емейлы, воспользуйтесь, например, этим инструментом [Hunter](https://hunter.io/)).
+  - [ ] Отправляйте три холодных емейла каждый день в течение 10 дней. Каждый раз меняйте содержание и форму, отмечайте, что работает, а что нет.
+  - [ ] Также отправляйте по три последующих письма в течение 10 дней, отмечайте, что работает, а что нет.
+  - [ ] Увеличьте количество писем. Лучше всего настройте автоматическую рассылку.
+  - [ ] Больше здесь [множество советов и инструкций](https://originalstitch.com/blog/automating-cold-emails-with-no-coding-your-software-development-project-plan).
 
-### Free Promotional Channels
+### Бесплатные каналы продвижения
 
-> _I don't care how much money you have, free stuff is always a good thing._ - Queen Latifah
+> _Меня не интересует, сколько у вас денег, ведь бесплатное - это всегда хорошо._ - Queen Latifah
 
 - [ ] Post your product on directories and review sites (Matt McCaffrey has compiled [a great list on Github](https://github.com/mmccaff/PlacesToPostYourStartup)).
 - [ ] Write and distribute a Press Release (here's a [comprehensive guide from Wajeez](http://www.wajeez.com/writing-quick-press-releases/)).
