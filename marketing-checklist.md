@@ -59,46 +59,46 @@ permalink: /marketing-checklist/
 
 ### Лэндинговая страница
 
-- [ ] Come up with a name and domain name.
-- [ ] Write a site tagline and elevator pitch.
-- [ ] Create a logo.
+- [ ] Придумайте название и подберите доменное имя.
+- [ ] Напишите слоган и составьте "питч для лифта" (короткий рассказ о вашем проекте).
+- [ ] Придумайте логотип.
 
-  ##### Logo creation tools
-  - [ ] The Logo Company (use this link for [10% off any order](http://www.kqzyfj.com/click-8424281-10526654))
-  - [ ] [LogoFox](https://logofox.co/form/name) (use coupon code "CHECKLIST" for 20% off your order)
+  ##### Инструменты для создания логотипа
+  - [ ] Компания по созданию логотипаов (используйте эту ссылку для получения [10% скидки на любой заказ](http://www.kqzyfj.com/click-8424281-10526654))
+  - [ ] [LogoFox](https://logofox.co/form/name) (используйте купон "CHECKLIST" для получени 20% скидки на заказ)
   - [ ] [The Noun Project](https://thenounproject.com/)
   - [ ] [FlatIcon](https://www.flaticon.com/)
   - [ ] [Logo Rank](http://brandmark.io/logo-rank/)
   
-- [ ] Set up a landing page (see [this list of landing page tools](https://www.sideprojectchecklist.com/2017/landing-page-tools/)).
-- [ ] Create "About" and "Contact" pages.
-- [ ] Create Pricing page (see [this list of pricing models](https://taprun.com/methods/)):
+- [ ] Создайте лэндинговую страницу(see [список инструментов для создания лэндингов](https://www.sideprojectchecklist.com/2017/landing-page-tools/)).
+- [ ] Создайте страницы "О проекте" and "Контакты".
+- [ ] Создайте страницу с ценами ([список моделей ценообразования](https://taprun.com/methods/)):
 
-  ##### Pricing ideas
-  - [ ] Create a free or trial tier for your paid product.
-  - [ ] Offer a 100% satisfaction/money-back guarantee.
-  - [ ] Make product invite-only to start.
-  - [ ] Offer free/discounted access for early adopters/beta testers.
+  ##### Идеи по ценообразованию
+  - [ ] Придумайте возможность использовать ваш продукт бесплатно или бесплатно в течение некоторого времени (триал).
+  - [ ] Предложите 100% возврат, если покупатель не будет удовлетворен качество продукта.
+  - [ ] Для начала предлагайте продукт только по приглашениям.
+  - [ ] Предлагайте продукт бесплатно или со скидкой для ранних пользователей и бета-тестеров.
 
-- [ ] Add social media follow links to landing page.
-- [ ] Set up analytics to learn about who signs up, bounces, etc.
+- [ ] Добавьте ссылки на эккаунты в соцсетях на страницу лэндинга.
+- [ ] Настройте эккаунт аналитики, чтобы узнать, кто заходит на вашу страницу, как быстро покидает ее и т.д.
 
-  ##### Analytics platforms
+  ##### Платформы для аналитики
   - [ ] [Google Analytics](https://analytics.google.com)
   - [ ] [Mixpanel](https://mixpanel.com/)
   - [ ] [Kiss Metrics](https://www.kissmetrics.com/)
   - [ ] [Webmaster Tools](https://www.google.com/webmasters/tools)
 
-- [ ] Set up on-site messaging to capture leads and engage customers as they land on your site (see our [list of live customer chat tools](/2017/customer-chat-tools))
+- [ ] Настройте инструмент для сообщений (чата), чтобы собирать лиды и поощрять пользователей (смотри [список инструментов для ведения чатов](/2017/customer-chat-tools))
 
-### Email Setup
+### Настройка емейла
 
-*[See this list of email marketing tools](https://www.sideprojectchecklist.com/2017/email-marketing-tools/) for services that make managing email easier.*
+*[Список инструментов для маркетина по электронной почте](https://www.sideprojectchecklist.com/2017/email-marketing-tools/).*
 
-- [ ] Set up email address to send and receive emails.
-- [ ] Set up email list and signup form.
-- [ ] Create a standard email template for your brand.
-- [ ] Create transactional emails for when users sign up/purchase.
+- [ ] Настройте адрес электронной почты для получения и отправки писем.
+- [ ] Создайте список абонентов и форму для подписки.
+- [ ] Создайте шаблон писем для вашего конкретного брэнда.
+- [ ] Настройте систему оповещения, чтобы узнать, когда ваши пользователи подписываются или покупают.
 
 ### Blog Setup
 
