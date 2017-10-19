@@ -100,14 +100,14 @@ permalink: /marketing-checklist/
 - [ ] Создайте шаблон писем для вашего конкретного брэнда.
 - [ ] Настройте систему оповещения, чтобы узнать, когда ваши пользователи подписываются или покупают.
 
-### Blog Setup
+### Настройка блога
 
-> _Content Marketing is all the marketing that’s left._ - Seth Godin
+> _Контент-маркетинг - это все, что мы можем сделать._ - Seth Godin
 
-- [ ] Choose a blogging platform (see this list of [blogging platforms for your side project](/2017/blogging-platforms)).
-- [ ] Research keywords that you'd like your site/blog to rank for.
+- [ ] Выберите платформу для блога (смотри список [платформ для ведения блога](/2017/blogging-platforms)).
+- [ ] Найти ключевые слова, по которым вы хотите, чтобы ваш блог можно было найти.
 
-  ##### Keyword research tools
+  ##### Инструменты поиска ключевых слов
   - [Ahrefs](https://ahrefs.com/)
   - [SpyFu](https://www.spyfu.com/)
   - [SEMrush](https://www.semrush.com/)
@@ -116,17 +116,17 @@ permalink: /marketing-checklist/
   - [KWFinder](https://kwfinder.com/)
   - [Google Keyword Research](https://adwords.google.com/home/tools/keyword-planner/)
 
-- [ ] Create anchor posts or pages for keywords you'd like to rank for.
-- [ ] Have a blog post brainstorming session (see this [big list of blog post ideas](/2017/blog-post-ideas)).
-- [ ] Add email signup form or link to all blog posts.
-- [ ] Add social media follow links to all blog posts.
+- [ ] Создайте "цепляющие" посты или страницы, содержащие ключевые слова.
+- [ ] Устройте мозговой штурм и придумайте, что писать в блог (смотри [большой список идей для блог-постов](/2017/blog-post-ideas)).
+- [ ] Во все посты добавляйте форму подписки или ссылку.
+- [ ] Во все посты добавляйте ссылки на страницы в соцсетях.
 
-### Social Media Setup
+### Настройка соцсетей
 
-- [ ] Search for availability of names on social networks using [KnowEm](http://knowem.com/).
-- [ ] Choose the social media accounts you'll use:
+- [ ] Найдите подходящие доступные названия в соцсетях [KnowEm](http://knowem.com/).
+- [ ] Выберите эккаунты для использования:
 
-  ##### Social media platforms
+  ##### Платформы соцсетей
   - [ ] Facebook
   - [ ] Twitter
   - [ ] Linkedin
@@ -135,13 +135,13 @@ permalink: /marketing-checklist/
   - [ ] Snapchat
   - [ ] YouTube
 
-- [ ] Standardize profile image, background photo, links and call to action across social channels.
-- [ ] Put premium content behind "[pay with a tweet](https://www.paywithatweet.com/)".
+- [ ] Создайте стардартное изображение для профиля, фоновое изображение, ссылки и запостите их во всех ваших эккаунтах.
+- [ ] Создайте "премиум" контент, доступный только за твиты "[заплати твитом](https://www.paywithatweet.com/)".
 
 
-## Post-Launch
+## После запуска
 
-### Customer Outreach
+### Работа с потребителями
 
 > _You should be talking to a small number of users who are seriously interested in what you’re making, not a broad audience who are on the whole indifferent._ - Jessica Livingston, Founding Partner at Y Combinator
 
