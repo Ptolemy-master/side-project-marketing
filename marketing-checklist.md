@@ -150,7 +150,7 @@ permalink: /marketing-checklist/
 - [ ] Обратитесь к своим фолловерам в соцсетях, попросите их попробовать ваш продукт.
 - [ ] Сделайте около 20 холодных звонков потенциальным покупателям.
 - [ ] Свяжитесь с потенциальными потребителями через линкедин, расскажите им о своем продукте, когда они примут ваше приглашение.
-- [ ] Наблюдайте за тем, как пользователи используют ваш продукт в первый раз.
+- [ ] Понаблюдайте за тем, как пользователи используют ваш продукт в первый раз.
 - [ ] Создайте опросы и получите мнение пользователей о вашем продукте(смотрите наш [список инструментов для создания опросов - для кошелька любой толщины](/2017/survey-tools)).
 - [ ] Собирайте и размещайте на сайте благодарности от довольных пользователей.
 - [ ] Запустите кампанию по холодной рассылке.
@@ -166,22 +166,23 @@ permalink: /marketing-checklist/
 
 > _Меня не интересует, сколько у вас денег, ведь бесплатное - это всегда хорошо._ - Queen Latifah
 
-- [ ] Post your product on directories and review sites (Matt McCaffrey has compiled [a great list on Github](https://github.com/mmccaff/PlacesToPostYourStartup)).
-- [ ] Write and distribute a Press Release (here's a [comprehensive guide from Wajeez](http://www.wajeez.com/writing-quick-press-releases/)).
-- [ ] Write and distribute an eBook, exchange it for email signup.
-- [ ] Write and distribute a white paper, exchange it for email signup.
-- [ ] Give free access to influential bloggers in the industry.
-- [ ] Build a "best of" page with your best blog posts that you wrote or contributed to other sites (ProBlogger calls this a "[Sneeze Page](https://problogger.com/create-a-sneeze-page-and-propel-readers-deep-within-your-blog/)").
-- [ ] Make sure all blog posts have high quality images.
+- [ ] Разместите информацию о вашем продукте в каталогах и сайтах с ревю (Matt McCaffrey создал [подробный список на гитхабе](https://github.com/mmccaff/PlacesToPostYourStartup)).
+- [ ] Напишите и разошлите пресс-релиз (здесь [полное руководство от Wajeez](http://www.wajeez.com/writing-quick-press-releases/)).
+- [ ] Создайте и разошлите электронную книгу, в обмен на емейл подписки.
+- [ ] Напишите и разошлите официальное письмо, в обмен на емейл подписки.
+- [ ] Предоставьте влиятельным блоггерам бесплатный доступ к продукту.
+- [ ] Создайте страницу с вашими лучшими постами - которые вы написали для себя или других сайтов (ProBlogger называет их "[Sneeze Page](https://problogger.com/create-a-sneeze-page-and-propel-readers-deep-within-your-blog/)").
+- [ ] Убедитесь, что все блогпосты снабжены качественными изображениями.
 
-  ##### Places to get free stock images
+  ##### Где взять бесплатные изображения
   - [ ] [Unsplash](https://unsplash.com/)
   - [ ] [Skuawk](http://skuawk.com/index.html)
   - [ ] [Pexels](https://www.pexels.com/)
   - [ ] [Death to Stock](https://deathtothestockphoto.com/)
+  - [ ] [Pixabay](https://www.pixabay.com/)
 
-- [ ] Create an online course or guide around your product/industry (be sure to [check out our list of course management tools](/2017/course-creation-tools)).
-- [ ] Run a link-building campaign.
+- [ ] Создайте онлайн-курс или руководство по использованию вашего продукта или о каком-то вопросе в вашей области, (не забудьте [проверить список инструментов по созданию курсов](/2017/course-creation-tools)).
+- [ ] Запустите кампанию по увеличению ссылок на ваш сайт.
 
   ##### Link building strategies
   - [ ] [Skyscraper campaign](http://backlinko.com/skyscraper-technique)
