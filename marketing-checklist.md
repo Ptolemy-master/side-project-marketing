@@ -3,7 +3,7 @@ layout: checklist_page
 title: Маркетинг проекта
 permalink: /marketing-checklist/
 ---
-Чек-лист для маркетинга проектов - это всеобъемлющий список маркетинговых приемов и идей, расположенных в хронологическом порядке. Список бесплатный и открытый, поэтому не стесняйтесь пополнять его [open source](https://github.com/karllhughes/side-project-marketing) so feel free to [suggest your own tips anytime](/2017/making-a-contribution)
+Чек-лист для маркетинга проектов - это всеобъемлющий список маркетинговых приемов и идей, расположенных в хронологическом порядке. Список бесплатный и открытый, поэтому не стесняйтесь [пополнять](/2017/making-a-contribution) [его](https://github.com/karllhughes/side-project-marketing).
 
 ## До запуска
 
@@ -15,26 +15,26 @@ permalink: /marketing-checklist/
 
 - [ ] Составьте список конкурентов (см. [список инструментов для исследования конкурентов](/2017/competition-tools/)).
   
-  ##### Competitor data to collect
-  - [ ] Link to their website.
-  - [ ] "One-liners" and taglines competitors use.
-  - [ ] Pricing and business model.
-  - [ ] Blog/RSS link.
-  - [ ] Social media links.
-  - [ ] Key employees on social media.
+  ##### Что нужно знать о конкурентах
+  - [ ] Ссылка на вебсайт.
+  - [ ] Остроты и слоганы, которые они используют.
+  - [ ] Ценообразование и бизнес-модель.
+  - [ ] Ссылки на блог/RSS.
+  - [ ] Ссылки на эккаунты и страницы в соцсетях.
+  - [ ] Ссылки на эккаунты ключевых сотрудников в соцсетях.
 
-- [ ] Subscribe to RSS feeds of your competitors' blogs.
-- [ ] Follow your competitors and their key employees on social media.
-- [ ] Monitor competitors' websites for changes.
+- [ ] Подпишитесь на ленту RSS блогов.
+- [ ] "Фолловите" их страницы и страницы их ключевых сотрудников в соцсетях.
+- [ ] Регулярно отслеживайте изменения на их сайте.
   
-  ##### Site monitoring tools
+  ##### Инструменты мониторинга сайтов
   - [ ] [Site Alerts](http://sitealerts.com/)
   - [ ] [Versionista](https://versionista.com/)
 
-- [ ] Subscribe to industry newsletters, magazines, trade journals etc.
-- [ ] Use [Google Trends](https://trends.google.com/trends/) to do initial demand and search volume research ([check out this article for specific tips](http://smallbusinessbc.ca/article/how-use-google-trends-perform-market-research/)).
+- [ ] Подпишитесь на ленты новостей вашей индустрии, журналы, профильные блоги и т.д.
+- [ ] Используйте [Google Trends](https://trends.google.com/trends/), чтобы оценить количество запросов по вашей теме ([здесь вы найдете конктертные советы](http://smallbusinessbc.ca/article/how-use-google-trends-perform-market-research/)).
 
-#### Customer Research
+#### Исследование потребителей
 
 - [ ] Find people in your contact list who might be future customers. Get their feedback on your idea.
 - [ ] Attend meetups or conferences for your target market.
