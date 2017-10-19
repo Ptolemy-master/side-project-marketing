@@ -1,6 +1,6 @@
 ---
 layout: checklist_page
-title: The Side Project Marketing Checklist
+title: Маркетинг проекта
 permalink: /marketing-checklist/
 ---
 
