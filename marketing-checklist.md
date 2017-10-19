@@ -36,28 +36,28 @@ permalink: /marketing-checklist/
 
 #### Исследование потребителей
 
-- [ ] Find people in your contact list who might be future customers. Get their feedback on your idea.
-- [ ] Attend meetups or conferences for your target market.
-- [ ] Meet another entrepreneur who has a similar or competitive product.
-- [ ] Make a list of your competitors' customers:
+- [ ] Найдите среди ваших знакомых потенциальных покупателей. Спросите у них мнение насчет вашей идеи.
+- [ ] Посещайте встречи или конференции, где мы можете встретить вашу целевую аудиторию.
+- [ ] Познакомьтесь с предпринимателем, у которого похожий или конкурирующий продукт. 
+- [ ] Составьте список потребителей ваших конкурентов:
 
-  ##### Finding competitors' customers
-  - [ ] Check their Twitter followers, mentions.
-  - [ ] Look through their Facebook fans.
-  - [ ] Find people who follow them on Linkedin.
-  - [ ] Check their website. Some companies list customer stories on their websites.
+  ##### Как найти потребителей конкурентов
+  - [ ] Ищите их среди фолловеров на твиттере, любые упоминания в интернете.
+  - [ ] Ищите их среди фанов на фейсбуке.
+  - [ ] Ищите их среди тех, кто фоллвит их на линкедине.
+  - [ ] Посмотрите на их сайтах - некоторые компании размещают там истории своих покупателей.
 
-- [ ] Reach out to your competitors' customers, find out what they like/don't like.
-- [ ] Create an "early access" list for potential future customers.
+- [ ] Вступите в контакт с потребителями своих конкурентов, узнайте, что они любят, а что нет.
+- [ ] Составьте список раннего доступа для потенциальных потребителей.
 
-### PR Preparations
+### Подготовка к рекламированию
 
-- [ ] Create list of tech, startup, and industry blogs.
-- [ ] Create list of local small business journals (eg: [Crain's Chicago](http://www.chicagobusiness.com/section/Contact-Us&template=mobile)).
-- [ ] Create list of local bloggers and journalists in your industry.
-- [ ] Create a "Media Kit" page ([check out this example](https://www.kickresume.com/mediakit/)).
+- [ ] Составьте список блогов, связанных с вашей индустрией (технических, других стартапов).
+- [ ] Составьте список журналов местных бизнесов (например, [Crain's Chicago](http://www.chicagobusiness.com/section/Contact-Us&template=mobile)).
+- [ ] Составьте список местных блоггеров или журналистов в вашей индустрии.
+- [ ] Создайте страницу с медиакитом для журналистов ([пример здесь](https://www.kickresume.com/mediakit/)).
 
-### Landing Page
+### Лэндинговая страница
 
 - [ ] Come up with a name and domain name.
 - [ ] Write a site tagline and elevator pitch.
