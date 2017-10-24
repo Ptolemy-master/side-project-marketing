@@ -184,17 +184,17 @@ permalink: /marketing-checklist/
 - [ ] Создайте онлайн-курс или руководство по использованию вашего продукта или о каком-то вопросе в вашей области, (не забудьте [проверить список инструментов по созданию курсов](/2017/course-creation-tools)).
 - [ ] Запустите кампанию по увеличению ссылок на ваш сайт.
 
-  ##### Link building strategies
+  ##### Стратегия увеличения ссылочной массы
   - [ ] [Skyscraper campaign](http://backlinko.com/skyscraper-technique)
   - [ ] [Ego baiting](http://pointblankseo.com/egobait-guide)
-  - [ ] Interview/expert Q&A post
-  - [ ] Guest posting
-  - [ ] Broken link building
-  - [ ] Get interviewed on podcasts
-  - [ ] Become a source on [Help a Reporter Out](https://www.helpareporter.com/)
-  - [ ] [More strategies on Backlinko.com](http://backlinko.com/link-building)
+  - [ ] Интервью с экспертом, пост с вопросами и ответами
+  - [ ] Гостевые посты
+  - [ ] Обработка битых ссылок
+  - [ ] Давать интервью в подкасты
+  - [ ] Давать информацию на [Help a Reporter Out](https://www.helpareporter.com/)
+  - [ ] [Больше стратегий на Backlinko.com](http://backlinko.com/link-building)
   
-  ##### Link building tools
+  ##### Сервисы построения ссылочной массы
   - [ ] [Ahrefs](https://ahrefs.com/) - Two-week free trial
   - [ ] [Majestic](https://majestic.com/)
   - [ ] [Rank Signals](https://www.ranksignals.com/) - Free
@@ -202,13 +202,13 @@ permalink: /marketing-checklist/
   - [ ] [Serpstat](https://serpstat.com/) - Free limited account
   
   
-### Paid Promotional Channels
+### Платные каналы продвижения
 
-> _Many people take no care of their money till they come nearly to the end of it, and others do just the same with their time._ - Johann Wolfgang von Goethe
+> _Многие люди не заботятся о деньгах - до тех пор, пока те не кончатся; а другие так же поступают с временем._ - Johann Wolfgang von Goethe
 
-- [ ] Paid social and search advertising 
+- [ ] Платное продвижения в соцсетях и объявлениях поисковых систем
 
-  ##### Social and search advertising platforms
+  ##### Платформы подачи объявлений в поисковых системах и соцсетях
   - [ ] [Google Adwords](https://adwords.google.com/home/)
   - [ ] [Linkedin](https://business.linkedin.com/marketing-solutions/ads)
   - [ ] [Facebook](https://www.facebook.com/business/products/ads)
@@ -221,19 +221,19 @@ permalink: /marketing-checklist/
   - [ ] [Izea](https://izea.com/)
   - [ ] [SponsoredReviews.com](http://www.sponsoredreviews.com/)
 
-- [ ] Commission based advertising
+- [ ] Реклама, основанная на комиссии
 
-  ##### Commission/affiliate advertising platforms
+  ##### Платформы объявлений на оснвое комиссий/программы аффилиаты
   - [ ] [Commission Junction](http://www.cj.com/advertiser)
   - [ ] [Affiliate.com](http://www.affiliate.com/)
   - [ ] [Rakuten Marketing](https://rakutenmarketing.com/affiliate)
   
-- [ ] Sponsor a local meetup or conference for your target customers.
-- [ ] Sponsor podcasts your customers might be listening to.
-- [ ] Sponsor/advertise an industry newsletter (check out [Newsletter.city](https://newsletter.city/)).
-- [ ] Set up a user referral marketing system.
+- [ ] Спонсируйте встречу или конференцию для вашей целевой аудитории.
+- [ ] Спонсируйте подкасты, которые могут быть интересны вашим покупателям.
+- [ ] Спонсируйте/подайте объявление в новостные системы ( [Newsletter.city](https://newsletter.city/)).
+- [ ] Организуйте реферральную систему для пользователей.
 
-  ##### Referral marketing platforms
+  ##### Платформы продвижения на основе реферральной системы
   - [Harry's Prelaunchr (free, open source)](https://github.com/harrystech/prelaunchr)
   - [CleverTap (offers a free tier)](https://clevertap.com/)
   - [Expect Referrals](http://expectreferrals.com/pricing/)
@@ -246,8 +246,8 @@ permalink: /marketing-checklist/
   - [Girafi](https://girafi.co/)
   - [Campaigned](https://campaignedapp.com/)
 
-- [ ] Run an engagement contest with prizes or free products for winners.
-- [ ] Buy email or lead lists.
+- [ ] Запустите конкурс с призами или бесплатными продуктами для победителей.
+- [ ] Купите списки емейлов или лидов.
 
 
 ## Recurring
