@@ -301,71 +301,70 @@ permalink: /marketing-checklist/
   - [ ] Обзоры книг.
   - [ ] Полезные инструменты или вебсайты.
 
-- [ ] Join Facebook and Linkedin groups where your product might be beneficial.
-- [ ] Send exclusive offers to LinkedIn/Facebook Group owners.
-- [ ] Join Twitter chats related to your industry/product.
-- [ ] Give early users discounts for taking pics with your product.
+- [ ] Присоединяйте к группа фейсбука и линкедина, члены которых могут быть заинтересованы в продукте.
+- [ ] Отправляйте эксклюзивные предложения владельцам групп фейсбука и линкедина.
+- [ ] Участвуйте в чатах твиттера, связанных с вашей индустрией.
+- [ ] Предлагайте скидки тем пользователям, которые разместят фотографии с вашим продуктом.
 
-### Public Relations
+### Связи с общественностью
 
-> _The art of publicity is a black art; but it has come to stay, and every year adds to its potency._ – Thomas Paine
+> _Искусство рекламы - это по сути черная магия; однако весьма укоренившаяся и с каждым годом становящаяся все сильнее._ – Thomas Paine
 
-- [ ] Ask bloggers with list articles to add your site to their content.
-- [ ] Reach out to small business journals, reporters, bloggers. Inform and ask for coverage.
-- [ ] Find professors and students with `.edu` sites to link to your content (good for SEO).
-- [ ] Find reviews or lists of similar products. Ask to be added or leave a comment about your product.
-- [ ] Guest post on other blogs.
+- [ ] Обратитесь к блоггерам, которые ведут списки сервисов и продуктов, добавить ваш в свои обзоры.
+- [ ] Свяжитесь с журналами, репортеами и блоггерами, которые пишут о малом бизнесе. Расскажите о своем продукте и попросите написать о нем. 
+- [ ] Ищите профессоров и студентов с сайтами в домене ".edu" добавить ссылки на ваш контент (полезно для СЕО).
+- [ ] Найдите списки похожих продуктов и их обзоры. Постарайтесь добавить в эти списки свой продукт или хотя бы оставьте комментарий о нем. 
+- [ ] Делайте гостевые блогпосты.
 
-  ##### Guest posting
-  - [ ] Build a list of blogs that are a good fit for your product and accept guest posts. Save their contact form/information.
-  - [ ] Write a few posts on your own blog first (to use as a demonstration).
-  - [ ] Create a list of "pitches," blog post ideas with a title and one paragraph summary that might grab bloggers.
-  - [ ] Pitch the blogs one idea each. See what they respond to.
-  - [ ] Help promote your posts via social media, email lists, etc.
-  - [ ] Reach back out in a month and try another pitch. Try to become a "regular"
+  ##### Публикация гостевых постов
+  - [ ] Составьте список блогов, которые подходят к вашему продукту и публикуют гостевые посты. Включите туда контактную информацию.
+  - [ ] Сначала опубликуйте несколько постов в своем блоге (чтобы использовать их в качестве демонстрации).
+  - [ ] Создать список "питчей" - короткими постами с заголовком и абзацем текста, которые могут заинтересовать блоггеров. 
+  - [ ] Отправляйте блогам по одному такому питчу, следите за реакцией.
+  - [ ] Каждый месяц отправляйте новый питч.
 
-- [ ] Leave non-spammy comments on blog posts related to your industry or product.
-- [ ] Join and participate in forums related to your product or industry.
+- [ ] Оставляйте комментарии по теме в блогах, относящихся к вашей индустрии.
+- [ ] Регистрируйтесь и участвуйте в обсуждениях на форумах, связанных с вашей индустрией. 
 
-### External Sites
+### Внешние сайты
 
-- [ ] Answer relevant questions on Q&A community sites (check back regularly)
+- [ ] Отвечайте на вопросы по вашей теме и регулярно проверяйте, что вам отвечают.
   
-  ##### Q&A Communities
+  ##### Сообщества вопросов и ответов
   - [ ] [Stack Overflow](https://stackoverflow.com/)
   - [ ] [Quora](https://www.quora.com/)
-  - [ ] Industry or geographically specific forums
-  - [ ] [Product Hunt](https://www.producthunt.com/) For more information on how to launch here, [read this](https://blog.producthunt.com/how-to-launch-on-product-hunt-7c1843e06399).
+  - [ ] Специализированные форумы по индустрии, локальные форумы
+  - [ ] [Product Hunt](https://www.producthunt.com/) Как использовать Product Hunt, [читайте здесь](https://blog.producthunt.com/how-to-launch-on-product-hunt-7c1843e06399).
 
-- [ ] Leave comments on Slideshare presentations.
-- [ ] Review industry-related books on Amazon, Goodreads.
-- [ ] Register to be notified of relevant discussions on Reddit and Hacker News with [F5Bot](https://f5bot.com).
-- [ ] Create/publish presentations relevant to your industry.
+- [ ] Комментируйте презентации на Slideshare.
+- [ ] Делайте обзоры книг, связанных с вашей индустрией, на Amazon, Goodreads.
+- [ ] Зарегистрируйтесь и участвуйте в тематических дискуссиях на Reddit и Hacker News с помощью [F5Bot](https://f5bot.com).
+- [ ] Создайте и публикуйте презентации по темам вашей индустрии.
 
-  ##### Presentation Software
+  ##### ПО для презентации
   - [ ] [Google Slides](https://docs.google.com/presentation/)
   - [ ] [Prezi](https://prezi.com/)
   - [ ] [Slides.com](https://slides.com/)
   - [ ] [Slideshare](https://www.slideshare.net/)
 
-## Optimizations
+## Оптимизация
 
-- [ ] Run a customer poll (can also generate content for your blog or social media channels).
-- [ ] Create another side project to promote your product ([read more](https://medium.com/swlh/side-product-marketing-is-the-new-king-a75c4ed0c0c5)).
-- [ ] A/B test your landing/payment pages (check out [Optimizely](https://www.optimizely.com/)).
-- [ ] A/B test email newsletters and promotions.
-- [ ] Implement [Twitter cards](https://dev.twitter.com/cards/overview) on your blog posts.
-- [ ] Implement [rich snippets in Google search results](https://developers.google.com/search/docs/guides/mark-up-content).
-- [ ] Analyze user signup flow ([check out the teardowns here](http://www.useronboard.com/)).
-- [ ] Test your website on multiple platforms, make sure speed is good.
-- [ ] Use [Website Grader](https://website.grader.com/) to pinpoint website improvements.
-- [ ] Create and track weekly traffic and growth goals.
-- [ ] Time social media posts and email newsletters to when your audience is most likely to respond.
-- [ ] Make sure each page on your site has a clear call-to-action.
-- [ ] Audit and improve your conversion rate (see [this checklist for detailed steps you can take](http://www.conversionchecklist.org/))
-- [ ] Set up automatic analytics reports to be emailed to you each week.
-- [ ] Experiment with various signup form locations, colors, and sizes.
-- [ ] Add "Exit Intent" popup to your blog/site.
-- [ ] Create an FAQs page.
-- [ ] Experiment with various proactive on-site messages to promote engagement and conversions.
-- [ ] Verify your website's tags are correct with [Google Tag Assistant](https://get.google.com/tagassistant/).
+- [ ] Запустите опросы пользователей (с их помощью можано также создавать конент для блогов и соцсетей).
+- [ ] Создайте побочные проекты, используйте их для продвижения основного продукта ([здесь больше](https://medium.com/swlh/side-product-marketing-is-the-new-king-a75c4ed0c0c5)).
+- [ ] Делайте A/B тесты лэндинговой и страниц с оплатой (см. здесь [Optimizely](https://www.optimizely.com/)).
+- [ ] Делайте A/B тесты новостных писем и акций по продвижению продукта.
+- [ ] Создайте [Twitter карточки](https://dev.twitter.com/cards/overview) для ваших блогпостов.
+- [ ] Создайте [сниппеты с дополнительной информацией в поисковом результате Гугла](https://developers.google.com/search/docs/guides/mark-up-content).
+- [ ] Проанализируйте, как пользователи используют ваш продукт ([см. здесь](http://www.useronboard.com/)).
+- [ ] Тестируйте сайт на разных платформах, убедитесь, что у него отличная скорость загрузки[Google PageSpeed (https://developers.google.com/speed/pagespeed/)].
+- [ ] Используйте этот сервис [Website Grader](https://website.grader.com/) чтобы улучшить сайт.
+- [ ] Создайте цели трафика и роста и каждую неделю отслеживайте их.
+- [ ] Публикуйтесь в соцсетях и отправляйте емейлы точно в то время, когда ваша ЦА наиболее активна и сможет отреагировать. 
+- [ ] Убедитесь, что на каждой странице сайта четко обозначен призыв к действию. 
+- [ ] Отслеживайте и улучшайте конверсию (см. [список детальных шагов](http://www.conversionchecklist.org/))
+- [ ] Наладьте еженедельную отправку автоматических отчетов с аналитикой сайта.
+- [ ] Экспериментируйте с формой регистрации - меняйте расположение, цвета, размеры и т.д.
+- [ ] Добавьте попапы, которые предлагают некие бонусы, когда пользователь покидает сайт (весьма сомнительно!)
+- [ ] Создайте страницу с часто задаваемыми вопросами.
+- [ ] Публикуйте на сайте сообщения для повышения вовлечения пользователей и увеличения конверсии.
+- [ ] Проверьте, работают ли скрипты на сайте (типа аналитики) с помощью [Google Tag Assistant](https://get.google.com/tagassistant/).
