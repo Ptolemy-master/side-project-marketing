@@ -250,56 +250,56 @@ permalink: /marketing-checklist/
 - [ ] Купите списки емейлов или лидов.
 
 
-## Recurring
+## Действия на постоянной основе
 
-### Blogging
+### Ведение блогов
 
-> _Blogging is like work, but without coworkers thwarting you at every turn._ - Scott Adams
+> _Ведение блога - это как работа, только без коллег, которые тормозят на каждом повороте._ - Scott Adams
 
-- [ ] Build/update publishing calendar for your blog.
-- [ ] Regularly post blog posts on your blog(s).
-- [ ] Solicit guest posts from early customers and fans of your product.
-- [ ] Repurpose existing blog posts:
+- [ ] Составьте календарь публикаций в блоге.
+- [ ] Регулярно постите в своем блоге.
+- [ ] Просите ваших ранних пользователей и фанов продукта писать гостевые статьи.
+- [ ] Переделайте сущестсвующие посты:
 
-  ##### Repurposing blog posts
-  - [ ] Record/post video of you reading the post on YouTube.
-  - [ ] Turn posts into a podcast.
-  - [ ] Create an infographic based on the post.
-  - [ ] Create a presentation of your post (see the [list of presentation software below](#presentation-software)).
+  ##### Переделка/адаптации постов
+  - [ ] Запишите и опубликуйте видео, где вы читаете свой пост.
+  - [ ] Превратите пост в подкаст.
+  - [ ] На основе поста создайте инфографику.
+  - [ ] Создайте презентацию поста (см. [список софта для создания презентаций](#presentation-software)).
 
-- [ ] Promote your blog content:
+- [ ] Продвигайте контент блога:
   
-  ##### Blog promotion techniques
-  - [ ] Send post to your email list.
-  - [ ] Promote on your social media.
-  - [ ] Email friends and relatives, ask them to share if relevant.
-  - [ ] Send to other bloggers for feedback, ask to share if they like it.
-  - [ ] Add your latest blog post or landing page to your email signature.
+  ##### Техника продвижения блога
+  - [ ] Отправляйте посты подписчикам.
+  - [ ] Продвигайте в соцсетях.
+  - [ ] Отправьте по емейлу друзьям и родственникам, просите их расшарить, если понравилось.
+  - [ ] Отправьте другим блоггерам, попросите дать отзывы о постах и расшарить.
+  - [ ] Добавляйте новые блогпосты и даже лэндинговую страницу в подпись к рассылке.
 
-### Email
+### Работа с электронной почтой
 
-> _Email is the Jason Bourne of online: somebody’s always trying to kill it. It can’t be done._ - Unknown
+> _Емейл - это что-то вроде Джеймса Борна: кто-то все время пытается его уничтожить. Но это невозможно._ - Неизвестный автор
 
-- [ ] Send a regular email newsletter with blog posts, use cases, customer stories, etc.
-- [ ] Promote email list on social media.
-- [ ] Send 20 cold emails per week to connect with early customers and get direct feedback.
-- [ ] Send new users a personal email introducing yourself.
+- [ ] Отправляйте регулярные письма с блогпостами, кейсами использования, историями покупателей и т.д.
+- [ ] Продвигайте подписку в соцсетях.
+- [ ] Отправляйте 20 "холодных" писем каждую неделю своим ранним пользователей с целью получения отзывов на продукт.
+- [ ] Отправляйте новым пользователям персональные письма с рассказом о себе и своем продукте.
 
-### Social Media
+### Соцсети
 
-> _We have technology, finally, that for the first time in human history allows people to really maintain rich connections with much larger numbers of people._ – Pierre Omidyar
+> _Наконец у нас появилась технология, которая впервые в истории человечества позволяет людям поддерживать настоящие связи с огромным числом людей._ – Pierre Omidyar
 
-- [ ] Schedule regular social media content (try these [social media tools to help automate the social media process](/2017/social-media-tools)).
+- [ ] Составьте расписание публикации медиаконтента (см. [сервисы для автоматизации работы с соцсетями](/2017/social-media-tools)).
 
-  ##### Content ideas
-  - [ ] Show what happening "behind the scenes" (eg: pictures of your workspace, in-development features, etc.).
-  - [ ] Blog posts from your blog (or partners' blogs).
-  - [ ] Special offers or discounts.
-  - [ ] Relevant news, advice, or blogs.
-  - [ ] Funny or inspiring quotes.
-  - [ ] Polls or questions for your followers.
-  - [ ] Suggested books.
-  - [ ] Useful tools or websites.
+  ##### Что можно публиковать
+  - [ ] Рассказы о том, что происходит "за кулисами" (например, фотографии рабочих мест, рассказывайте о функциональности, которая находится в разработке и т.д.).
+  - [ ] Посты своих и партнерских блогов.
+  - [ ] Информация о спецпредложениях и скидках.
+  - [ ] Новтости, советы, статьи по теме.
+  - [ ] Вдохновляющие или юморные цитаты
+  - [ ] Опросы/вопросы.
+  - [ ] Обзоры книг.
+  - [ ] Полезные инструменты или вебсайты.
 
 - [ ] Join Facebook and Linkedin groups where your product might be beneficial.
 - [ ] Send exclusive offers to LinkedIn/Facebook Group owners.
